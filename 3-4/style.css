@@ -1,0 +1,22 @@
+body {
+    margin-top: 100px;
+    color: white;
+    font-family: serif;
+    background-color:gray;
+
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: -10px;
+}
+
+hr {
+    height: 2px;
+    background-color: white;
+    margin-bottom: 60px;
+}
+.button {
+    border-radius: 5px;
+}
+
