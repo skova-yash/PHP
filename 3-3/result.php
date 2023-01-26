@@ -6,7 +6,7 @@
 <p>選ばれた数字は<?php echo $select ?></p>
 <?php
     switch($select) {
-        case $select == 0:
+        case 0:
             echo "凶";
             break;
         case $select <= 3:
